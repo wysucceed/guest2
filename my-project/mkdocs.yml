@@ -1,0 +1,6 @@
+site_name: 博客 of  wangyang
+page:
+- Home: index.md
+- About: about.md
+- development:development.md
+theme: mkdocs

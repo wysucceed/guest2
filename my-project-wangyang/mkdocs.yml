@@ -1,0 +1,5 @@
+site_name: My Docs-wangyang
+pages:
+- 首页: index.md
+- 测试: 测试.md
+theme: readthedocs

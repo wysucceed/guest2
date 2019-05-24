@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Automation Framework/.idea/Automation Framework.iml" filepath="$PROJECT_DIR$/../Automation Framework/.idea/Automation Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../djangoproject/.idea/djangoproject.iml" filepath="$PROJECT_DIR$/../djangoproject/.idea/djangoproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guest2.iml" filepath="$PROJECT_DIR$/.idea/guest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../guest3/.idea/guest3.iml" filepath="$PROJECT_DIR$/../guest3/.idea/guest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyrequest-master/.idea/pyrequest-master.iml" filepath="$PROJECT_DIR$/../pyrequest-master/.idea/pyrequest-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study_unnitest/.idea/study_unnitest.iml" filepath="$PROJECT_DIR$/../study_unnitest/.idea/study_unnitest.iml" />
+    </modules>
+  </component>
+</project>
